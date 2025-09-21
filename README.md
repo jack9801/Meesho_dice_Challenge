@@ -16,7 +16,6 @@ A full-stack collaborative shopping list and product recommendation platform ins
 - [API Endpoints](#api-endpoints)
 - [Socket.IO Usage](#socketio-usage)
 - [Data Files](#data-files)
-- [License](#license)
 
 ---
 
@@ -129,5 +128,4 @@ socket.on("item:added", console.log);
 
 ---
 
-## License
-This project is for educational/demo purposes only.
+
